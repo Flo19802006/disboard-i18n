@@ -109,7 +109,7 @@ return [
     'Select a server to review' => 'Wähle einen Server zum Rezension schreiben aus',
     'Separate by space' => 'Trennung durch Leerzeichen',
     'Servers' => 'Server',
-    'Server admin?' => 'Server Administartor?',
+    'Server admin?' => 'Server Adminstrator?',
     'Showing <b>{from}</b> - <b>{to}</b> of <strong>{total} servers</strong>' => 'Server (von <b>{total}</b>) auf <b>{from}</b>-<b>{to}</b>',
     'Showing <b>{from}</b> - <b>{to}</b> of <strong>{total} reviews</strong>' => 'Rezensionen (von <b>{total}</b>) auf <b>{from}</b>-<b>{to}</b>',
     'Sort by' => 'Sortiert nach',
